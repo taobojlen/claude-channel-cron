@@ -1,0 +1,6 @@
+{
+  "name": "cron",
+  "description": "Cron channel — Ubuntu crontab fires prompts into the session via HTTP, no expiry.",
+  "version": "0.0.1",
+  "keywords": ["cron", "scheduler", "channel"]
+}

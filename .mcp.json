@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cron": {
+      "command": "bun",
+      "args": ["./cron-channel.ts"]
+    }
+  }
+}
